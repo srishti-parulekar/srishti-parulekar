@@ -1,4 +1,5 @@
-# Hi, I'm Srishti! <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70" /> 
+
+<h1 align="center"> Hi, I'm Srishti! <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70" /> </h1>
 <table>
   <tr>
     <td>
